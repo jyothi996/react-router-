@@ -1,0 +1,33 @@
+.navbar {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin: 15px;
+}
+.wave-container {
+  display: flex;
+  padding-left: 100px;
+  align-items: center;
+}
+.wave-image {
+  width: 40px;
+  margin-right: 10px;
+}
+.wave {
+  color: #12022f;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.list-container {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  padding-right: 100px;
+}
+.list-item {
+  color: #12022f;
+  padding: 10px;
+  text-decoration: none;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
